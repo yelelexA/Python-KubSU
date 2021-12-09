@@ -1,0 +1,66 @@
+<patient><element>
+        <id>1</id>
+        <fio>Яблонева Ольга Михайловна</fio>
+        <birth_date>12.10.1995</birth_date>
+        <place_of_living>г.Краснодар</place_of_living>
+        <blood_type>2</blood_type>
+        <diagnosis>Акне</diagnosis>
+  </element><element>
+        <id>2</id>
+        <fio>Петров Григорий Иванович</fio>
+        <birth_date>15.03.1977</birth_date>
+        <place_of_living>г.Кропоткин</place_of_living>
+        <blood_type>1</blood_type>
+        <diagnosis>Ушиб</diagnosis>
+  </element><element>
+        <id>3</id>
+        <fio>Михайлова Роза Витальевна</fio>
+        <birth_date>03.08.1965</birth_date>
+        <place_of_living>г.Краснодар</place_of_living>
+        <blood_type>3</blood_type>
+        <diagnosis>Пульпит</diagnosis>
+  </element><element>
+        <id>4</id>
+        <fio>Пирогова Людмила Анатольевна</fio>
+        <birth_date>03.11.1999</birth_date>
+        <place_of_living>г.Майкоп</place_of_living>
+        <blood_type>4</blood_type>
+        <diagnosis>Перелом</diagnosis>
+  </element><element>
+        <id>5</id>
+        <fio>Петрухин Олег Петрович</fio>
+        <birth_date>15.11.2001</birth_date>
+        <place_of_living>г.Железноводск</place_of_living>
+        <blood_type>1</blood_type>
+        <diagnosis>Перелом</diagnosis>
+  </element><element>
+        <id>6</id>
+        <fio>Дымова Лилия Николаевна</fio>
+        <birth_date>02.02.1965</birth_date>
+        <place_of_living>г.Горячий ключ</place_of_living>
+        <blood_type>2</blood_type>
+        <diagnosis>Перенор</diagnosis>
+  </element><element>
+        <id>7</id>
+        <fio>Тысячная Эльвира Николаевна</fio>
+        <birth_date>03.02.2002</birth_date>
+        <place_of_living>г.Ставрополь</place_of_living>
+        <blood_type>2</blood_type>
+        <diagnosis>Простуда</diagnosis>
+  </element><element>
+        <id>8</id>
+        <fio>Попова Ольга Петровна</fio>
+        <birth_date>15.11.2001</birth_date>
+        <place_of_living>г.Железноводск</place_of_living>
+        <blood_type>1</blood_type>
+        <diagnosis>Перелом</diagnosis>
+  </element><element>
+        <id>9</id>
+        <fio>Дымов Григорий Николаевич</fio>
+        <birth_date>02.02.1965</birth_date>
+        <place_of_living>г.Горячий ключ</place_of_living>
+        <blood_type>2</blood_type>
+        <diagnosis>Перенор</diagnosis>
+  </element>
+
+</patient>

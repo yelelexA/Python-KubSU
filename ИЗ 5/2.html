@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Содержимое страниц</title>
+</head>
+<body>
+ <form action="/cgi-bin/patient.py">
+        <h3>Таблица "Пациенты"</h3>
+        Ф.И.О. <input type="text" name="FIO_p"><br><br>
+        Дата рождения <input type="text" name="Birth_date"><br><br>
+        Место проживания <input type="text" name="Place_of_living"><br><br>
+        Группа крови <input type="text" name="Blood_type"><br><br>
+        Диагноз <input type="text" name="Diagnosis"><br><br>
+        <input type="submit">
+        <a href="#" onclick="history.back();return false;">Вернуться назад</a>
+ </form>
+</body>
+</html>

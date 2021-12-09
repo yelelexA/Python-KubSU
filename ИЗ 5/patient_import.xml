@@ -1,0 +1,16 @@
+<Patient>
+   <element>
+     <fio>Попова Ольга Петровна</fio>
+     <birth_date>15.11.2001</birth_date>
+     <place_of_living>г.Железноводск</place_of_living>
+     <blood_type>1</blood_type>
+     <diagnosis>Перелом</diagnosis>
+   </element>
+    <element>
+     <fio>Дымов Григорий Николаевич</fio>
+     <birth_date>02.02.1965</birth_date>
+     <place_of_living>г.Горячий ключ</place_of_living>
+     <blood_type>2</blood_type>
+     <diagnosis>Перенор</diagnosis>
+     </element> 
+</Patient>
